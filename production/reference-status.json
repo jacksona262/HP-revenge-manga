@@ -1,0 +1,28 @@
+{
+  "targets": {
+    "characters": 60,
+    "locations": 20,
+    "backgrounds": 10,
+    "gangs": 6
+  },
+  "completed": {
+    "characters": 2,
+    "locations": 9,
+    "backgrounds": 0,
+    "gangs": 0
+  },
+  "source_notes_reviewed": 23,
+  "source_export": "Text and selected screenshots; original attachments and complete embedded tables not exported.",
+  "github_read_access": true,
+  "github_push_access": false,
+  "canon_decision_pending": true,
+  "github_browser_write_access": true,
+  "github_checkpoint_uploaded": true,
+  "generated_pending_review": {
+    "characters": 0,
+    "locations": 0,
+    "backgrounds": 0,
+    "gangs": 0
+  },
+  "github_upload_method": "Authenticated browser; terminal push remains unavailable."
+}
