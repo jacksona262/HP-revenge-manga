@@ -1,0 +1,10 @@
+{
+  "sheet_id": "C014",
+  "version": 1,
+  "output": "characters/sheets/C014-isaac-diaz-v1.png",
+  "tool": "built-in imagegen",
+  "sha256": "eccd09fa70836308cabcd07f5f7346519a301fd26912d87aa0f2884f9dbadeaf",
+  "visual_review": "Inspected all required body views, face, six distinguishable expressions, casual outfit, three poses and swatches/grayscale. Isaac dark curls/eyes and compact teen proportions follow subject reference. Branch uniform and gray trousers used; casual white/racket-graphic shirt retained. Age 15 and 5ft7 correct. No other people or injury.",
+  "status": "generated_visually_reviewed",
+  "user_approval": false
+}

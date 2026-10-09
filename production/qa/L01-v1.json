@@ -1,0 +1,10 @@
+{
+  "sheet_id": "L01",
+  "version": 1,
+  "output": "locations/sheets/L01-oak-tree-five-years-earlier-v1.png",
+  "tool": "built-in imagegen",
+  "sha256": "6ed8ebedfca8289a4258703139daf413d8985dedd3bb5621782502767c15e3c5",
+  "visual_review": "Inspected five complete panels: establishing, reverse, seated root view, bark/leaf/acorn details and spatial plan. No people. School, tree and path relationships are coherent for reference use. Architectural layout is an artist-designed interpretation; supplied story facts preserved.",
+  "status": "generated_visually_reviewed",
+  "user_approval": false
+}

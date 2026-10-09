@@ -1,0 +1,10 @@
+{
+  "sheet_id": "L13",
+  "version": 1,
+  "output": "locations/sheets/L13-branch-west-side-gathering-place-v1.png",
+  "tool": "built-in imagegen",
+  "sha256": "74ddc0cd888bd359834bdf124b48437792322269a3954f03136409b6248acbf1",
+  "visual_review": "Inspected recreation-center approach, covered hangout, tree-emblem/material details and site plan. Branch green/white tree insignia from supplied poster retained, adjoining West Courts represented; no people. District layout is artist-designed.",
+  "status": "generated_visually_reviewed",
+  "user_approval": false
+}

@@ -1,0 +1,10 @@
+{
+  "sheet_id": "L06",
+  "version": 2,
+  "output": "locations/sheets/L06-school-cafeteria-v2.png",
+  "tool": "built-in imagegen",
+  "sha256": "66d3c72614d3ce7563aca323b9e4de9232814a84120917e2156611fe2a083082",
+  "visual_review": "Inspected repaired cafeteria: recurring near-window table now has movable backed chairs in close detail, plan and wider views. Counter/entry/window layout retained. Supports scripted chair-pull action; no people.",
+  "status": "generated_visually_reviewed",
+  "user_approval": false
+}

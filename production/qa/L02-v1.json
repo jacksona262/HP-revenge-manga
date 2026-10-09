@@ -1,0 +1,10 @@
+{
+  "sheet_id": "L02",
+  "version": 1,
+  "output": "locations/sheets/L02-oak-tree-present-day-v1.png",
+  "tool": "built-in imagegen",
+  "sha256": "935b40ab83bdd1c7a81658ef74888c9dc1ecb3e5d938c750bee9efc415b11ae3",
+  "visual_review": "Inspected establishing, reverse sunset, seated dusk, bark/leaf detail and high-angle spatial plan. Recognisable L01 tree, root pattern, curved path and older school facade preserved; modern wing and streetlights added. No people. Artist-designed interpretation consistent with detailed Episode 1 setting.",
+  "status": "generated_visually_reviewed",
+  "user_approval": false
+}

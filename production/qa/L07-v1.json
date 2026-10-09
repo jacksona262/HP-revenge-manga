@@ -1,0 +1,10 @@
+{
+  "sheet_id": "L07",
+  "version": 1,
+  "output": "locations/sheets/L07-school-hallway-v1.png",
+  "tool": "built-in imagegen",
+  "sha256": "2d5c83474ff844b2594e9c46db4c4314e81c84099ef578e35ffb70ecbe4b8d0f",
+  "visual_review": "Four hallway/connection panels with readable directional signs and consistent materials. Small framed people portraits in trophy case conflict with people-free location specification; replace them with non-figurative certificates.",
+  "status": "generated_review_pending",
+  "user_approval": false
+}

@@ -1,0 +1,10 @@
+{
+  "sheet_id": "L07",
+  "version": 2,
+  "output": "locations/sheets/L07-school-hallway-v2.png",
+  "tool": "built-in imagegen",
+  "sha256": "42f575cae88ead1c2ec6ce60c3640c150fa49d826037872e951733df955666c5",
+  "visual_review": "Inspected repaired hallway: framed people photos replaced with award certificates; trophies, signs, doors/lockers, perspective views and connection plan retained. No visible people.",
+  "status": "generated_visually_reviewed",
+  "user_approval": false
+}

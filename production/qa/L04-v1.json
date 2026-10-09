@@ -1,0 +1,10 @@
+{
+  "sheet_id": "L04",
+  "version": 1,
+  "output": "locations/sheets/L04-behind-the-school-gym-v1.png",
+  "tool": "built-in imagegen",
+  "sha256": "f68e4bf984a95a30565e972013828324db0a17181c4cec801de3ec7483e098db",
+  "visual_review": "Inspected rear gym, reverse approach, low-wall gathering space and overhead plan. Consistent brick gym, side utilities, benches, paths and open space for the morning group. No people. Campus architecture matches reference materials; artist-designed layout.",
+  "status": "generated_visually_reviewed",
+  "user_approval": false
+}

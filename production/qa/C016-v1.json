@@ -1,0 +1,10 @@
+{
+  "sheet_id": "C016",
+  "version": 1,
+  "output": "characters/sheets/C016-bryson-french-v1.png",
+  "tool": "built-in imagegen",
+  "sha256": "8d98b9cc537b2033d72a8586dfba59f45f09f8ce187360306f2578962c5b859f",
+  "visual_review": "Inspected front/side/back, casual, close face, six expressions, three poses and color/grayscale blocks. Bryson golden curls and face follow individual reference; Branch tree/green-white jacket replaces older HP outfit. Header age 15 and 5ft9 correct; feet and visible hands fit within cells. Candidate reviewed, not user-approved.",
+  "status": "generated_visually_reviewed",
+  "user_approval": false
+}

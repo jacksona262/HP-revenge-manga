@@ -1,0 +1,10 @@
+{
+  "sheet_id": "L05",
+  "version": 1,
+  "output": "locations/sheets/L05-first-period-classroom-v1.png",
+  "tool": "built-in imagegen",
+  "sha256": "d44d94478d4f8e4b417c48ca202528ad40b37c1550149931803ce51eb5775276",
+  "visual_review": "Four panels present; windows and furnishings readable. Continuity failure: main and reverse views show doors on opposite room ends while the overhead plan shows only the front-right door. Needs repair before completion. Front-right placement is an artist-designed choice, not source story canon.",
+  "status": "generated_review_pending",
+  "user_approval": false
+}

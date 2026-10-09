@@ -1,0 +1,10 @@
+{
+  "sheet_id": "L08",
+  "version": 1,
+  "output": "locations/sheets/L08-outdoor-basketball-court-v1.png",
+  "tool": "built-in imagegen",
+  "sha256": "30233cbd270782b9abc6a6acc93ccc1bd2702c2dd0dfe5d03805b261c66ca1d0",
+  "visual_review": "Inspected court overview, reverse toward street gate, bench/hoop detail and overhead plan. Two hoops, fenced court, street gate, quiet bench edge and trees present; court markings broadly coherent. No people. Artist-designed action geography.",
+  "status": "generated_visually_reviewed",
+  "user_approval": false
+}

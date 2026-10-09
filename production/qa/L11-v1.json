@@ -1,0 +1,10 @@
+{
+  "sheet_id": "L11",
+  "version": 1,
+  "output": "locations/sheets/L11-school-courtyard-v1.png",
+  "tool": "built-in imagegen",
+  "sha256": "f7a93af048e8e2a3467d810c82d4d788b73b866cd7a838c04e075cdabc572758",
+  "visual_review": "Inspected courtyard/reverse views, bench/path details and plan. Broad shared sightlines, brick/glass wings, greenery, benches and entrances support school scenes. No people. Expanded architectural layout is an artist-designed interpretation, not supplied real-school geometry.",
+  "status": "generated_visually_reviewed",
+  "user_approval": false
+}

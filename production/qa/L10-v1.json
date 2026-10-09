@@ -1,0 +1,10 @@
+{
+  "sheet_id": "L10",
+  "version": 1,
+  "output": "locations/sheets/L10-residential-walk-home-v1.png",
+  "tool": "built-in imagegen",
+  "sha256": "00fcbbf8c287b62bbf9e2051c042a815d3d99daf8f8e186dcf84ec43a8c2ffba",
+  "visual_review": "Inspected sunset street, reverse with school visible, sidewalk/fence/light details and overhead corner plan. Neighborhood materials and lighting complement campus/oak references. No people or claimed real addresses.",
+  "status": "generated_visually_reviewed",
+  "user_approval": false
+}

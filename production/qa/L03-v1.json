@@ -1,0 +1,10 @@
+{
+  "sheet_id": "L03",
+  "version": 1,
+  "output": "locations/sheets/L03-highland-park-school-gates-v1.png",
+  "tool": "built-in imagegen",
+  "sha256": "12327857d540411be4608ecf32035f34db69a6bfd00f3204cfc17f4843a2c32e",
+  "visual_review": "Inspected four panels: gate approach, reverse, readable school sign/entry detail, and campus plan. Gates and brick/glass campus materials consistent across views; no people. Complements L02 environment style; exact architectural layout is an artist-designed production candidate.",
+  "status": "generated_visually_reviewed",
+  "user_approval": false
+}

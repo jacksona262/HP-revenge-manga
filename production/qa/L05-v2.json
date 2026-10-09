@@ -1,0 +1,10 @@
+{
+  "sheet_id": "L05",
+  "version": 2,
+  "output": "locations/sheets/L05-first-period-classroom-v2.png",
+  "tool": "built-in imagegen",
+  "sha256": "a479ad6bae1a62d4e4cffafad1bae9b05bab00227bb38ba67ec79b158e2f46ef",
+  "visual_review": "Inspected repaired board: extra rear-wall door removed from reverse B. Single front-right entrance now agrees with A and D. Window row and teacher/desk layouts remain coherent. Four complete panels, no people. Artist-designed room geometry.",
+  "status": "generated_visually_reviewed",
+  "user_approval": false
+}

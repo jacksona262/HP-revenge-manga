@@ -1,0 +1,10 @@
+{
+  "sheet_id": "L09",
+  "version": 1,
+  "output": "locations/sheets/L09-court-bench-and-quiet-edge-v1.png",
+  "tool": "built-in imagegen",
+  "sha256": "c0ab878f16e39604aaff087312deb3d604065728581ae40d9cc7ee3f40145bd6",
+  "visual_review": "Inspected bench close-up, court/reverse neighborhood views and overhead court layout. Reuses L08 fence, hoops, gate, quiet bench edge and neighborhood materials; dusk treatment supports the dialogue scenes. No people. Spatial views remain artist-designed references.",
+  "status": "generated_visually_reviewed",
+  "user_approval": false
+}

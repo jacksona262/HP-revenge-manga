@@ -1,0 +1,10 @@
+{
+  "sheet_id": "L06",
+  "version": 1,
+  "output": "locations/sheets/L06-school-cafeteria-v1.png",
+  "tool": "built-in imagegen",
+  "sha256": "2bc5233662cd120391d66b026a08954a77763c1448b7d62cf68af788fd917d52",
+  "visual_review": "Four coherent cafeteria views; clear table and serving counter. Needs repair: recurring table uses fixed stools, but Episode 1 requires Jack to pull out a chair for Jason. Add movable chairs to that table in detail and plan.",
+  "status": "generated_review_pending",
+  "user_approval": false
+}

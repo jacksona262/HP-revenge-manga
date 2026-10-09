@@ -1,0 +1,10 @@
+{
+  "sheet_id": "L12",
+  "version": 1,
+  "output": "locations/sheets/L12-hp-gathering-place-v1.png",
+  "tool": "built-in imagegen",
+  "sha256": "e85f038a61c492f7bd7886b55afa6ec1eeb15ae981542b6c37f362c179cddac5",
+  "visual_review": "Inspected hangout interior, reverse, details and indoor/outdoor plan. HP black/gold banner, gathering table/benches, shelf and blank photo frame present; no actual portraits. Materials connect with gym setting. Architecture/furniture are production candidates, not established source layouts.",
+  "status": "generated_visually_reviewed",
+  "user_approval": false
+}
