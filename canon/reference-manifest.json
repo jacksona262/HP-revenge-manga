@@ -1,0 +1,1074 @@
+{
+  "note": "60 character-sheet slots follow poster roster positions; repeated people reuse identity. Conflicting roster choices remain proposals, not locked canon. Names in square brackets are indexing disambiguators, not invented surnames.",
+  "characters": [
+    {
+      "id": "C001",
+      "person": "Jackson Anderson",
+      "identity": "jackson-anderson",
+      "gang_outfit": "HP",
+      "palette": "black and gold",
+      "source_image": "characters/references/hp-poster-existing.jpg",
+      "status": "generated_visually_reviewed",
+      "locked": false,
+      "output": "characters/sheets/C001-jackson-anderson-hp-v2.png",
+      "qa": "production/qa/C001-jackson-v2.md"
+    },
+    {
+      "id": "C002",
+      "person": "Jack Davenport",
+      "identity": "jack-davenport",
+      "gang_outfit": "HP",
+      "palette": "black and gold",
+      "source_image": "characters/references/hp-poster-existing.jpg",
+      "status": "generated_visually_reviewed",
+      "locked": false,
+      "output": "characters/sheets/C002-jack-davenport-hp-v2.png",
+      "qa": "production/qa/C002-jack-v2.md"
+    },
+    {
+      "id": "C003",
+      "person": "Luke Hornbach",
+      "identity": "luke-hornbach",
+      "gang_outfit": "HP",
+      "palette": "black and gold",
+      "source_image": "characters/references/hp-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C003-luke-hornbach-hp-v1.png"
+    },
+    {
+      "id": "C004",
+      "person": "Jason Schmidt",
+      "identity": "jason-schmidt",
+      "gang_outfit": "HP",
+      "palette": "black and gold",
+      "source_image": "characters/references/hp-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C004-jason-schmidt-hp-v1.png"
+    },
+    {
+      "id": "C005",
+      "person": "Ethan Caldwell",
+      "identity": "ethan-caldwell",
+      "gang_outfit": "HP",
+      "palette": "black and gold",
+      "source_image": "characters/references/hp-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C005-ethan-caldwell-hp-v1.png"
+    },
+    {
+      "id": "C006",
+      "person": "Chris Harding",
+      "identity": "chris-harding",
+      "gang_outfit": "HP",
+      "palette": "black and gold",
+      "source_image": "characters/references/hp-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C006-chris-harding-hp-v1.png"
+    },
+    {
+      "id": "C007",
+      "person": "Cooper Miller",
+      "identity": "cooper-miller",
+      "gang_outfit": "HP",
+      "palette": "black and gold",
+      "source_image": "characters/references/hp-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C007-cooper-miller-hp-v1.png"
+    },
+    {
+      "id": "C008",
+      "person": "Sienna Vargas",
+      "identity": "sienna-vargas",
+      "gang_outfit": "HP",
+      "palette": "black and gold",
+      "source_image": "characters/references/hp-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C008-sienna-vargas-hp-v1.png"
+    },
+    {
+      "id": "C009",
+      "person": "Max Keller",
+      "identity": "max-keller",
+      "gang_outfit": "HP",
+      "palette": "black and gold",
+      "source_image": "characters/references/hp-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C009-max-keller-hp-v1.png"
+    },
+    {
+      "id": "C010",
+      "person": "Nate Brooks",
+      "identity": "nate-brooks",
+      "gang_outfit": "HP",
+      "palette": "black and gold",
+      "source_image": "characters/references/hp-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C010-nate-brooks-hp-v1.png"
+    },
+    {
+      "id": "C011",
+      "person": "Ava Boch",
+      "identity": "ava-boch",
+      "gang_outfit": "Branch",
+      "palette": "forest green and white",
+      "source_image": "characters/references/branch-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C011-ava-boch-branch-v1.png"
+    },
+    {
+      "id": "C012",
+      "person": "Mia [Branch]",
+      "identity": "mia-branch",
+      "gang_outfit": "Branch",
+      "palette": "forest green and white",
+      "source_image": "characters/references/branch-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C012-mia-branch-branch-v1.png"
+    },
+    {
+      "id": "C013",
+      "person": "Leo Tan",
+      "identity": "leo-tan",
+      "gang_outfit": "Branch",
+      "palette": "forest green and white",
+      "source_image": "characters/references/branch-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C013-leo-tan-branch-v1.png"
+    },
+    {
+      "id": "C014",
+      "person": "Isaac Diaz",
+      "identity": "isaac-diaz",
+      "gang_outfit": "Branch",
+      "palette": "forest green and white",
+      "source_image": "characters/references/branch-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C014-isaac-diaz-branch-v1.png"
+    },
+    {
+      "id": "C015",
+      "person": "Drew Hollis",
+      "identity": "drew-hollis",
+      "gang_outfit": "Branch",
+      "palette": "forest green and white",
+      "source_image": "characters/references/branch-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C015-drew-hollis-branch-v1.png"
+    },
+    {
+      "id": "C016",
+      "person": "Bryson French",
+      "identity": "bryson-french",
+      "gang_outfit": "Branch",
+      "palette": "forest green and white",
+      "source_image": "characters/references/branch-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C016-bryson-french-branch-v1.png"
+    },
+    {
+      "id": "C017",
+      "person": "Caleb Rivera",
+      "identity": "caleb-rivera",
+      "gang_outfit": "Branch",
+      "palette": "forest green and white",
+      "source_image": "characters/references/branch-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C017-caleb-rivera-branch-v1.png"
+    },
+    {
+      "id": "C018",
+      "person": "Jace Miller",
+      "identity": "jace-miller",
+      "gang_outfit": "Branch",
+      "palette": "forest green and white",
+      "source_image": "characters/references/branch-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C018-jace-miller-branch-v1.png"
+    },
+    {
+      "id": "C019",
+      "person": "Mason Ellis",
+      "identity": "mason-ellis",
+      "gang_outfit": "Branch",
+      "palette": "forest green and white",
+      "source_image": "characters/references/branch-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C019-mason-ellis-branch-v1.png"
+    },
+    {
+      "id": "C020",
+      "person": "Nico Park",
+      "identity": "nico-park",
+      "gang_outfit": "Branch",
+      "palette": "forest green and white",
+      "source_image": "characters/references/branch-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C020-nico-park-branch-v1.png"
+    },
+    {
+      "id": "C021",
+      "person": "Kade Mercer",
+      "identity": "kade-mercer",
+      "gang_outfit": "Kurogetsu",
+      "palette": "black and crimson",
+      "source_image": "characters/references/kurogetsu-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C021-kade-mercer-kurogetsu-v1.png"
+    },
+    {
+      "id": "C022",
+      "person": "Cooper [Kurogetsu]",
+      "identity": "cooper-kurogetsu",
+      "gang_outfit": "Kurogetsu",
+      "palette": "black and crimson",
+      "source_image": "characters/references/kurogetsu-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C022-cooper-kurogetsu-kurogetsu-v1.png"
+    },
+    {
+      "id": "C023",
+      "person": "Chris Hardy",
+      "identity": "chris-hardy",
+      "gang_outfit": "Kurogetsu",
+      "palette": "black and crimson",
+      "source_image": "characters/references/kurogetsu-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C023-chris-hardy-kurogetsu-v1.png"
+    },
+    {
+      "id": "C024",
+      "person": "Eli Navarro",
+      "identity": "eli-navarro",
+      "gang_outfit": "Kurogetsu",
+      "palette": "black and crimson",
+      "source_image": "characters/references/kurogetsu-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C024-eli-navarro-kurogetsu-v1.png"
+    },
+    {
+      "id": "C025",
+      "person": "Ren",
+      "identity": "ren",
+      "gang_outfit": "Kurogetsu",
+      "palette": "black and crimson",
+      "source_image": "characters/references/kurogetsu-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C025-ren-kurogetsu-v1.png"
+    },
+    {
+      "id": "C026",
+      "person": "Marcus Lin",
+      "identity": "marcus-lin",
+      "gang_outfit": "Kurogetsu",
+      "palette": "black and crimson",
+      "source_image": "characters/references/kurogetsu-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C026-marcus-lin-kurogetsu-v1.png"
+    },
+    {
+      "id": "C027",
+      "person": "Robert",
+      "identity": "robert",
+      "gang_outfit": "Kurogetsu",
+      "palette": "black and crimson",
+      "source_image": "characters/references/kurogetsu-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C027-robert-kurogetsu-v1.png"
+    },
+    {
+      "id": "C028",
+      "person": "Austin Jabour",
+      "identity": "austin-jabour",
+      "gang_outfit": "Kurogetsu",
+      "palette": "black and crimson",
+      "source_image": "characters/references/kurogetsu-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C028-austin-jabour-kurogetsu-v1.png"
+    },
+    {
+      "id": "C029",
+      "person": "Theo Park",
+      "identity": "theo-park",
+      "gang_outfit": "Kurogetsu",
+      "palette": "black and crimson",
+      "source_image": "characters/references/kurogetsu-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C029-theo-park-kurogetsu-v1.png"
+    },
+    {
+      "id": "C030",
+      "person": "Milo Aura Vega",
+      "identity": "milo-aura-vega",
+      "gang_outfit": "Kurogetsu",
+      "palette": "black and crimson",
+      "source_image": "characters/references/kurogetsu-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C030-milo-aura-vega-kurogetsu-v1.png"
+    },
+    {
+      "id": "C031",
+      "person": "London Mincey",
+      "identity": "london-mincey",
+      "gang_outfit": "Shiranui",
+      "palette": "black and ice blue",
+      "source_image": "characters/references/shiranui-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C031-london-mincey-shiranui-v1.png"
+    },
+    {
+      "id": "C032",
+      "person": "Mia [Shiranui]",
+      "identity": "mia-shiranui",
+      "gang_outfit": "Shiranui",
+      "palette": "black and ice blue",
+      "source_image": "characters/references/shiranui-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C032-mia-shiranui-shiranui-v1.png"
+    },
+    {
+      "id": "C033",
+      "person": "Yuto Sera",
+      "identity": "yuto-sera",
+      "gang_outfit": "Shiranui",
+      "palette": "black and ice blue",
+      "source_image": "characters/references/shiranui-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C033-yuto-sera-shiranui-v1.png"
+    },
+    {
+      "id": "C034",
+      "person": "Haru Kage",
+      "identity": "haru-kage",
+      "gang_outfit": "Shiranui",
+      "palette": "black and ice blue",
+      "source_image": "characters/references/shiranui-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C034-haru-kage-shiranui-v1.png"
+    },
+    {
+      "id": "C035",
+      "person": "Sora Nami",
+      "identity": "sora-nami",
+      "gang_outfit": "Shiranui",
+      "palette": "black and ice blue",
+      "source_image": "characters/references/shiranui-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C035-sora-nami-shiranui-v1.png"
+    },
+    {
+      "id": "C036",
+      "person": "Kai",
+      "identity": "kai",
+      "gang_outfit": "Shiranui",
+      "palette": "black and ice blue",
+      "source_image": "characters/references/shiranui-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C036-kai-shiranui-v1.png"
+    },
+    {
+      "id": "C037",
+      "person": "Rei Okada",
+      "identity": "rei-okada",
+      "gang_outfit": "Shiranui",
+      "palette": "black and ice blue",
+      "source_image": "characters/references/shiranui-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C037-rei-okada-shiranui-v1.png"
+    },
+    {
+      "id": "C038",
+      "person": "Jun Mercado",
+      "identity": "jun-mercado",
+      "gang_outfit": "Shiranui",
+      "palette": "black and ice blue",
+      "source_image": "characters/references/shiranui-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C038-jun-mercado-shiranui-v1.png"
+    },
+    {
+      "id": "C039",
+      "person": "Toma Vale",
+      "identity": "toma-vale",
+      "gang_outfit": "Shiranui",
+      "palette": "black and ice blue",
+      "source_image": "characters/references/shiranui-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C039-toma-vale-shiranui-v1.png"
+    },
+    {
+      "id": "C040",
+      "person": "Cian Brooks",
+      "identity": "cian-brooks",
+      "gang_outfit": "Shiranui",
+      "palette": "black and ice blue",
+      "source_image": "characters/references/shiranui-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C040-cian-brooks-shiranui-v1.png"
+    },
+    {
+      "id": "C041",
+      "person": "Jack Davenport",
+      "identity": "jack-davenport",
+      "gang_outfit": "Tsukabi",
+      "palette": "black and purple",
+      "source_image": "characters/references/tsukabi-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C041-jack-davenport-tsukabi-v1.png"
+    },
+    {
+      "id": "C042",
+      "person": "Dev",
+      "identity": "dev",
+      "gang_outfit": "Tsukabi",
+      "palette": "black and purple",
+      "source_image": "characters/references/tsukabi-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C042-dev-tsukabi-v1.png"
+    },
+    {
+      "id": "C043",
+      "person": "Leo Kottos",
+      "identity": "leo-kottos",
+      "gang_outfit": "Tsukabi",
+      "palette": "black and purple",
+      "source_image": "characters/references/tsukabi-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C043-leo-kottos-tsukabi-v1.png"
+    },
+    {
+      "id": "C044",
+      "person": "Niko Kottos",
+      "identity": "niko-kottos",
+      "gang_outfit": "Tsukabi",
+      "palette": "black and purple",
+      "source_image": "characters/references/tsukabi-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C044-niko-kottos-tsukabi-v1.png"
+    },
+    {
+      "id": "C045",
+      "person": "Jason Schmidt",
+      "identity": "jason-schmidt",
+      "gang_outfit": "Tsukabi",
+      "palette": "black and purple",
+      "source_image": "characters/references/tsukabi-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C045-jason-schmidt-tsukabi-v1.png"
+    },
+    {
+      "id": "C046",
+      "person": "Blake Turner",
+      "identity": "blake-turner",
+      "gang_outfit": "Tsukabi",
+      "palette": "black and purple",
+      "source_image": "characters/references/tsukabi-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C046-blake-turner-tsukabi-v1.png"
+    },
+    {
+      "id": "C047",
+      "person": "Ryan Cole",
+      "identity": "ryan-cole",
+      "gang_outfit": "Tsukabi",
+      "palette": "black and purple",
+      "source_image": "characters/references/tsukabi-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C047-ryan-cole-tsukabi-v1.png"
+    },
+    {
+      "id": "C048",
+      "person": "Carter Mills",
+      "identity": "carter-mills",
+      "gang_outfit": "Tsukabi",
+      "palette": "black and purple",
+      "source_image": "characters/references/tsukabi-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C048-carter-mills-tsukabi-v1.png"
+    },
+    {
+      "id": "C049",
+      "person": "Evan Rhodes",
+      "identity": "evan-rhodes",
+      "gang_outfit": "Tsukabi",
+      "palette": "black and purple",
+      "source_image": "characters/references/tsukabi-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C049-evan-rhodes-tsukabi-v1.png"
+    },
+    {
+      "id": "C050",
+      "person": "Max Keller",
+      "identity": "max-keller",
+      "gang_outfit": "Tsukabi",
+      "palette": "black and purple",
+      "source_image": "characters/references/tsukabi-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C050-max-keller-tsukabi-v1.png"
+    },
+    {
+      "id": "C051",
+      "person": "Naomi Reyes",
+      "identity": "naomi-reyes",
+      "gang_outfit": "Kaien",
+      "palette": "black and silver",
+      "source_image": "characters/references/kaien-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C051-naomi-reyes-kaien-v1.png"
+    },
+    {
+      "id": "C052",
+      "person": "Riley Knox",
+      "identity": "riley-knox",
+      "gang_outfit": "Kaien",
+      "palette": "black and silver",
+      "source_image": "characters/references/kaien-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C052-riley-knox-kaien-v1.png"
+    },
+    {
+      "id": "C053",
+      "person": "Sofia Navarro",
+      "identity": "sofia-navarro",
+      "gang_outfit": "Kaien",
+      "palette": "black and silver",
+      "source_image": "characters/references/kaien-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C053-sofia-navarro-kaien-v1.png"
+    },
+    {
+      "id": "C054",
+      "person": "Tyler Beckett",
+      "identity": "tyler-beckett",
+      "gang_outfit": "Kaien",
+      "palette": "black and silver",
+      "source_image": "characters/references/kaien-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C054-tyler-beckett-kaien-v1.png"
+    },
+    {
+      "id": "C055",
+      "person": "Caleb Moreno",
+      "identity": "caleb-moreno",
+      "gang_outfit": "Kaien",
+      "palette": "black and silver",
+      "source_image": "characters/references/kaien-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C055-caleb-moreno-kaien-v1.png"
+    },
+    {
+      "id": "C056",
+      "person": "Ethan Kuroda",
+      "identity": "ethan-kuroda",
+      "gang_outfit": "Kaien",
+      "palette": "black and silver",
+      "source_image": "characters/references/kaien-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C056-ethan-kuroda-kaien-v1.png"
+    },
+    {
+      "id": "C057",
+      "person": "Adrian Mercer",
+      "identity": "adrian-mercer",
+      "gang_outfit": "Kaien",
+      "palette": "black and silver",
+      "source_image": "characters/references/kaien-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C057-adrian-mercer-kaien-v1.png"
+    },
+    {
+      "id": "C058",
+      "person": "Marcus Vale",
+      "identity": "marcus-vale",
+      "gang_outfit": "Kaien",
+      "palette": "black and silver",
+      "source_image": "characters/references/kaien-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C058-marcus-vale-kaien-v1.png"
+    },
+    {
+      "id": "C059",
+      "person": "Nolan Pierce",
+      "identity": "nolan-pierce",
+      "gang_outfit": "Kaien",
+      "palette": "black and silver",
+      "source_image": "characters/references/kaien-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C059-nolan-pierce-kaien-v1.png"
+    },
+    {
+      "id": "C060",
+      "person": "Darius Cole",
+      "identity": "darius-cole",
+      "gang_outfit": "Kaien",
+      "palette": "black and silver",
+      "source_image": "characters/references/kaien-poster-existing.jpg",
+      "status": "source_reviewed_design_pending",
+      "locked": false,
+      "output": "characters/sheets/C060-darius-cole-kaien-v1.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "L01",
+      "title": "Oak tree \u2014 five years earlier",
+      "source_spec": "Episode 1 pages 1\u20133: sprawling oak behind older school building; late-afternoon sun; no gang uniforms.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "generated_visually_reviewed",
+      "canon_layout_locked": false,
+      "output": "locations/sheets/L01-oak-tree-five-years-earlier-v1.png",
+      "qa": "production/qa/L01-v1.json",
+      "locked": false
+    },
+    {
+      "id": "L02",
+      "title": "Oak tree \u2014 present day",
+      "source_spec": "Episode 1 pages 4, 47\u201350: same tree and bark; newer school nearby; sunset and streetlights.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "generated_visually_reviewed",
+      "canon_layout_locked": false,
+      "output": "locations/sheets/L02-oak-tree-present-day-v1.png",
+      "qa": "production/qa/L02-v1.json",
+      "locked": false
+    },
+    {
+      "id": "L03",
+      "title": "Highland Park school gates",
+      "source_spec": "Episode 1 pages 4\u20136: modern school exterior and morning student flow.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "generated_visually_reviewed",
+      "canon_layout_locked": false,
+      "output": "locations/sheets/L03-highland-park-school-gates-v1.png",
+      "qa": "production/qa/L03-v1.json",
+      "locked": false
+    },
+    {
+      "id": "L04",
+      "title": "Behind the school gym",
+      "source_spec": "Episode 1 page 7: approximately twenty HP members gather; preserve connection to school.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "generated_visually_reviewed",
+      "canon_layout_locked": false,
+      "output": "locations/sheets/L04-behind-the-school-gym-v1.png",
+      "qa": "production/qa/L04-v1.json",
+      "locked": false
+    },
+    {
+      "id": "L05",
+      "title": "First-period classroom",
+      "source_spec": "Episode 1 pages 13\u201314: Jackson at window, Jack behind him, board and teacher at front.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "generated_visually_reviewed",
+      "canon_layout_locked": false,
+      "output": "locations/sheets/L05-first-period-classroom-v2.png",
+      "qa": "production/qa/L05-v2.json",
+      "locked": false
+    },
+    {
+      "id": "L06",
+      "title": "School cafeteria",
+      "source_spec": "Episode 1 pages 15\u201318: crowded lunch room; consistent entrances and HP table.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "generated_review_pending",
+      "canon_layout_locked": false,
+      "output": "locations/sheets/L06-school-cafeteria-v1.png",
+      "qa": "production/qa/L06-v1.json",
+      "locked": false
+    },
+    {
+      "id": "L07",
+      "title": "School hallway",
+      "source_spec": "Episode 1 page 19: corridor connecting classroom/cafeteria circulation.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "generated_review_pending",
+      "canon_layout_locked": false,
+      "output": "locations/sheets/L07-school-hallway-v1.png",
+      "qa": "production/qa/L07-v1.json",
+      "locked": false
+    },
+    {
+      "id": "L08",
+      "title": "Outdoor basketball court",
+      "source_spec": "Episode 1 pages 20\u201341: trees, fence, hoop, sidelines, bench; consistent combat geography.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "pending",
+      "canon_layout_locked": false
+    },
+    {
+      "id": "L09",
+      "title": "Court bench and quiet edge",
+      "source_spec": "Episode 1 pages 21, 36\u201342: notebook/drink rest area and private conversation space, connected to court.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "pending",
+      "canon_layout_locked": false
+    },
+    {
+      "id": "L10",
+      "title": "Residential walk home",
+      "source_spec": "Episode 1 pages 43\u201346: sidewalks and streetlights; school visible in distance where specified.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "pending",
+      "canon_layout_locked": false
+    },
+    {
+      "id": "L11",
+      "title": "School courtyard",
+      "source_spec": "Season finale: shared school circulation and separated friend groups; layout proposed until map confirmed.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "pending",
+      "canon_layout_locked": false
+    },
+    {
+      "id": "L12",
+      "title": "HP gathering place",
+      "source_spec": "Entire plot: established meeting place with banner and shelf holding old photo; architectural design proposed.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "pending",
+      "canon_layout_locked": false
+    },
+    {
+      "id": "L13",
+      "title": "Branch west-side gathering place",
+      "source_spec": "Map art / Entire plot: West Courts, stable gang gathering and recreation-center connections; design proposed.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "pending",
+      "canon_layout_locked": false
+    },
+    {
+      "id": "L14",
+      "title": "Kurogetsu eastern garage",
+      "source_spec": "Map art: Blackline Garage / eastern industrial district; alternate label recorded; design proposed.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "pending",
+      "canon_layout_locked": false
+    },
+    {
+      "id": "L15",
+      "title": "Shiranui north blocks",
+      "source_spec": "Map art: north district / North Blocks; cool palette cues; design proposed.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "pending",
+      "canon_layout_locked": false
+    },
+    {
+      "id": "L16",
+      "title": "Dev network / future Tsukabi meeting spot",
+      "source_spec": "Map art: Rope Street; opening independent network versus Episode 12 formal gang; design proposed.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "pending",
+      "canon_layout_locked": false
+    },
+    {
+      "id": "L17",
+      "title": "Kaien old yard and river route",
+      "source_spec": "Map art: South Belt, Old Yard and river route; original-gang history; design proposed.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "pending",
+      "canon_layout_locked": false
+    },
+    {
+      "id": "L18",
+      "title": "Neutral council meeting place",
+      "source_spec": "Entire plot Episodes 5,18,24: common negotiating space, clear entrances; design proposed.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "pending",
+      "canon_layout_locked": false
+    },
+    {
+      "id": "L19",
+      "title": "Distant district night gathering",
+      "source_spec": "Episode 1 page 50: unfamiliar jackets outside building; preserve unrevealed identity.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "pending",
+      "canon_layout_locked": false
+    },
+    {
+      "id": "L20",
+      "title": "Territory overview",
+      "source_spec": "Map art: fictional Highland Park / Greater Dallas control map; retain relationships without claiming real travel distances.",
+      "source_image": "characters/references/map-existing.jpg",
+      "status": "pending",
+      "canon_layout_locked": false
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": "B01",
+      "title": "Morning school arrivals",
+      "source_images": [
+        "characters/references/background-existing-top.jpg",
+        "characters/references/background-existing-bottom.jpg"
+      ],
+      "status": "pending",
+      "rule": "Use existing face diversity as reference. Create stable indexed extras and outfit/pose variations. Teachers/adults need age-appropriate new designs; do not age up named students. Keep unnamed troublemakers consistent across cafeteria and court."
+    },
+    {
+      "id": "B02",
+      "title": "Classroom students",
+      "source_images": [
+        "characters/references/background-existing-top.jpg",
+        "characters/references/background-existing-bottom.jpg"
+      ],
+      "status": "pending",
+      "rule": "Use existing face diversity as reference. Create stable indexed extras and outfit/pose variations. Teachers/adults need age-appropriate new designs; do not age up named students. Keep unnamed troublemakers consistent across cafeteria and court."
+    },
+    {
+      "id": "B03",
+      "title": "Cafeteria diners",
+      "source_images": [
+        "characters/references/background-existing-top.jpg",
+        "characters/references/background-existing-bottom.jpg"
+      ],
+      "status": "pending",
+      "rule": "Use existing face diversity as reference. Create stable indexed extras and outfit/pose variations. Teachers/adults need age-appropriate new designs; do not age up named students. Keep unnamed troublemakers consistent across cafeteria and court."
+    },
+    {
+      "id": "B04",
+      "title": "Basketball participants",
+      "source_images": [
+        "characters/references/background-existing-top.jpg",
+        "characters/references/background-existing-bottom.jpg"
+      ],
+      "status": "pending",
+      "rule": "Use existing face diversity as reference. Create stable indexed extras and outfit/pose variations. Teachers/adults need age-appropriate new designs; do not age up named students. Keep unnamed troublemakers consistent across cafeteria and court."
+    },
+    {
+      "id": "B05",
+      "title": "Court spectators and phone recorders",
+      "source_images": [
+        "characters/references/background-existing-top.jpg",
+        "characters/references/background-existing-bottom.jpg"
+      ],
+      "status": "pending",
+      "rule": "Use existing face diversity as reference. Create stable indexed extras and outfit/pose variations. Teachers/adults need age-appropriate new designs; do not age up named students. Keep unnamed troublemakers consistent across cafeteria and court."
+    },
+    {
+      "id": "B06",
+      "title": "Younger students",
+      "source_images": [
+        "characters/references/background-existing-top.jpg",
+        "characters/references/background-existing-bottom.jpg"
+      ],
+      "status": "pending",
+      "rule": "Use existing face diversity as reference. Create stable indexed extras and outfit/pose variations. Teachers/adults need age-appropriate new designs; do not age up named students. Keep unnamed troublemakers consistent across cafeteria and court."
+    },
+    {
+      "id": "B07",
+      "title": "Older unaffiliated students A and B",
+      "source_images": [
+        "characters/references/background-existing-top.jpg",
+        "characters/references/background-existing-bottom.jpg"
+      ],
+      "status": "pending",
+      "rule": "Use existing face diversity as reference. Create stable indexed extras and outfit/pose variations. Teachers/adults need age-appropriate new designs; do not age up named students. Keep unnamed troublemakers consistent across cafeteria and court."
+    },
+    {
+      "id": "B08",
+      "title": "HP ordinary recruits",
+      "source_images": [
+        "characters/references/background-existing-top.jpg",
+        "characters/references/background-existing-bottom.jpg"
+      ],
+      "status": "pending",
+      "rule": "Use existing face diversity as reference. Create stable indexed extras and outfit/pose variations. Teachers/adults need age-appropriate new designs; do not age up named students. Keep unnamed troublemakers consistent across cafeteria and court."
+    },
+    {
+      "id": "B09",
+      "title": "Rival-gang ordinary recruits",
+      "source_images": [
+        "characters/references/background-existing-top.jpg",
+        "characters/references/background-existing-bottom.jpg"
+      ],
+      "status": "pending",
+      "rule": "Use existing face diversity as reference. Create stable indexed extras and outfit/pose variations. Teachers/adults need age-appropriate new designs; do not age up named students. Keep unnamed troublemakers consistent across cafeteria and court."
+    },
+    {
+      "id": "B10",
+      "title": "Teachers and neighborhood adults",
+      "source_images": [
+        "characters/references/background-existing-top.jpg",
+        "characters/references/background-existing-bottom.jpg"
+      ],
+      "status": "pending",
+      "rule": "Use existing face diversity as reference. Create stable indexed extras and outfit/pose variations. Teachers/adults need age-appropriate new designs; do not age up named students. Keep unnamed troublemakers consistent across cafeteria and court."
+    }
+  ],
+  "gangs": [
+    {
+      "id": "G01",
+      "gang": "HP",
+      "starting_population": 78,
+      "featured_roster": [
+        "Jackson Anderson",
+        "Jack Davenport",
+        "Luke Hornbach",
+        "Jason Schmidt",
+        "Ethan Caldwell",
+        "Chris Harding",
+        "Cooper Miller",
+        "Sienna Vargas",
+        "Max Keller",
+        "Nate Brooks"
+      ],
+      "source_image": "characters/references/hp-poster-existing.jpg",
+      "status": "pending",
+      "timeline": "Opening roster subject to unresolved source conflicts."
+    },
+    {
+      "id": "G02",
+      "gang": "Branch",
+      "starting_population": 328,
+      "featured_roster": [
+        "Ava Boch",
+        "Mia [Branch]",
+        "Leo Tan",
+        "Isaac Diaz",
+        "Drew Hollis",
+        "Bryson French",
+        "Caleb Rivera",
+        "Jace Miller",
+        "Mason Ellis",
+        "Nico Park"
+      ],
+      "source_image": "characters/references/branch-poster-existing.jpg",
+      "status": "pending",
+      "timeline": "Opening roster subject to unresolved source conflicts."
+    },
+    {
+      "id": "G03",
+      "gang": "Kurogetsu",
+      "starting_population": 492,
+      "featured_roster": [
+        "Kade Mercer",
+        "Cooper [Kurogetsu]",
+        "Chris Hardy",
+        "Eli Navarro",
+        "Ren",
+        "Marcus Lin",
+        "Robert",
+        "Austin Jabour",
+        "Theo Park",
+        "Milo Aura Vega"
+      ],
+      "source_image": "characters/references/kurogetsu-poster-existing.jpg",
+      "status": "pending",
+      "timeline": "Opening roster subject to unresolved source conflicts."
+    },
+    {
+      "id": "G04",
+      "gang": "Shiranui",
+      "starting_population": 246,
+      "featured_roster": [
+        "London Mincey",
+        "Mia [Shiranui]",
+        "Yuto Sera",
+        "Haru Kage",
+        "Sora Nami",
+        "Kai",
+        "Rei Okada",
+        "Jun Mercado",
+        "Toma Vale",
+        "Cian Brooks"
+      ],
+      "source_image": "characters/references/shiranui-poster-existing.jpg",
+      "status": "pending",
+      "timeline": "Opening roster subject to unresolved source conflicts."
+    },
+    {
+      "id": "G05",
+      "gang": "Tsukabi",
+      "starting_population": 124,
+      "featured_roster": [
+        "Jack Davenport",
+        "Dev",
+        "Leo Kottos",
+        "Niko Kottos",
+        "Jason Schmidt",
+        "Blake Turner",
+        "Ryan Cole",
+        "Carter Mills",
+        "Evan Rhodes",
+        "Max Keller"
+      ],
+      "source_image": "characters/references/tsukabi-poster-existing.jpg",
+      "status": "pending",
+      "timeline": "Opening population. Poster roster represents later time for Tsukabi; opening roster needs reconciliation."
+    },
+    {
+      "id": "G06",
+      "gang": "Kaien",
+      "starting_population": 184,
+      "featured_roster": [
+        "Naomi Reyes",
+        "Riley Knox",
+        "Sofia Navarro",
+        "Tyler Beckett",
+        "Caleb Moreno",
+        "Ethan Kuroda",
+        "Adrian Mercer",
+        "Marcus Vale",
+        "Nolan Pierce",
+        "Darius Cole"
+      ],
+      "source_image": "characters/references/kaien-poster-existing.jpg",
+      "status": "pending",
+      "timeline": "Opening roster subject to unresolved source conflicts."
+    }
+  ]
+}
