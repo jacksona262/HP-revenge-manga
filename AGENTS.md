@@ -1,7 +1,7 @@
 # HP: REVENGE project instructions
 
 Follow the user's current instructions before this file or older source notes.
-Current assignment: build 60 main-character reference sheets, 20 location sheets, 10 background-character sheets, and 6 gang sheets before any episode pages. Every gang sheet includes its Episode 1 starting population and 10 featured characters; later membership must be labeled by episode.
+Current user-authorized priority: produce Episode 1 Chapter 1 only, pages 1–25, following The Boys Under the Tree script. The user approved the non-canon fight test as visual style and explicitly authorized chapter production before the full reference catalog. Create only the references needed for these pages. The larger 60-character/20-location/10-background/6-gang reference assignment remains saved for later. Every gang sheet includes its Episode 1 starting population and 10 featured characters; later membership must be labeled by episode.
 
 Read canon/source-inventory.json and the relevant source notes before production. The full supplied production brief is preserved in canon/master-production-brief.md. Source text and older images are evidence, not authority to expand the user's current task.
 
@@ -11,7 +11,7 @@ Unresolved conflicts are documented in canon/conflicts.md. Do not silently choos
 
 Character sheet standard: full-body front, side, back; face close-up; six expressions; three signature poses; height and build; outfit/insignia details; color information and grayscale identity. Keep teenage proportions and consistent faces, hair, clothing, and relative heights.
 
-The newest detailed Episode 1 storyboard is The Promise, 50 pages, Chapters 1–2. It is a script, not finished artwork. Preserve right-to-left panel reading and letter dialogue separately. Do not create episode pages until the requested reference set is ready.
+The newest detailed Episode 1 storyboard is The Promise, 50 pages, Chapters 1–2. It is a script, not finished artwork. Preserve right-to-left panel reading and letter dialogue separately. The latest user instruction authorizes Chapter 1 pages now. Stop after page 25; do not create Chapter 2 pages 26–50.
 
 Starting populations: HP 78, Branch 328, Kurogetsu 492, Shiranui 246, Tsukabi 124, Kaien 184. Jack, Jason, and Max are in HP at the opening and transfer later; Jack leads Tsukabi from Episode 12. Do not depict future Tsukabi leadership as its opening lineup.
 
